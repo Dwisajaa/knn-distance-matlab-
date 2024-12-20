@@ -1,0 +1,66 @@
+Predictions for K = 3:
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02108915-French_bulldog
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02108915-French_bulldog
+n02089973-English_foxhound
+Predictions for K = 5:
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02108915-French_bulldog
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02108915-French_bulldog
+n02089973-English_foxhound
+Predictions for K = 10:
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02089973-English_foxhound
+n02108915-French_bulldog
+n02089973-English_foxhound
+n02108915-French_bulldog
+n02089973-English_foxhound
+n02089973-English_foxhound
+Predictions for K = 3:
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+Predictions for K = 5:
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093647-Bedlington_terrier
+Predictions for K = 10:
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093647-Bedlington_terrier
+n02093754-Border_terrier
+n02093647-Bedlington_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
+n02093754-Border_terrier
